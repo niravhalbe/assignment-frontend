@@ -10,7 +10,10 @@ Steps to run:
 5. The application will not be running on the default http://localhost:4200
 
 If you face problems in running the solution, follow the below steps:
+
 Since this project includes package.json, we need to first open the project in the vs code editor. Then run the following command:
 npm install --save-dev @angular-devkit/build-angular
+
 This will download all the dependencies.
-No run the command - ng serve
+No run the below command:
+ng serve
